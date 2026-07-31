@@ -11,7 +11,7 @@ A simple command-line to-do list program written in Python. It lets you **add** 
 - Saves tasks to `t.txt` so they remain after closing the program
 
 ## Requirements
-- Python 3.x
+- Python 3
 
 ## How It Works
 The program uses a plain text file (`t.txt`) where each task is saved like this:
